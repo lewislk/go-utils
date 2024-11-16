@@ -2,7 +2,7 @@ package files_test
 
 import (
 	"fmt"
-	"github.com/liukunc9/go-utils/files"
+	"github.com/lewis-buji/go-utils/files"
 	"strings"
 	"testing"
 )
