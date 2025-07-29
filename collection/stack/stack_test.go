@@ -1,8 +1,9 @@
 package stack_test
 
 import (
-	"github.com/lewislk/go-utils/collection/stack"
 	"testing"
+
+	"github.com/lewislk/go-utils/collection/stack"
 )
 
 func TestStack(t *testing.T) {
