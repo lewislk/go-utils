@@ -1,8 +1,9 @@
 package gptr_test
 
 import (
-	"github.com/lewis-buji/go-utils/gptr"
 	"testing"
+
+	"github.com/lewislk/go-utils/gptr"
 )
 
 func TestOf(t *testing.T) {

@@ -1,7 +1,7 @@
 package stack_test
 
 import (
-	"github.com/lewis-buji/go-utils/collection/stack"
+	"github.com/lewislk/go-utils/collection/stack"
 	"testing"
 )
 

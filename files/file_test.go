@@ -2,9 +2,10 @@ package files_test
 
 import (
 	"fmt"
-	"github.com/lewis-buji/go-utils/files"
 	"strings"
 	"testing"
+
+	"github.com/lewislk/go-utils/files"
 )
 
 func TestReadFile(t *testing.T) {

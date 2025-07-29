@@ -1,8 +1,9 @@
 package queue_test
 
 import (
-	"github.com/lewis-buji/go-utils/collection/queue"
 	"testing"
+
+	"github.com/lewislk/go-utils/collection/queue"
 )
 
 func TestQueue(t *testing.T) {

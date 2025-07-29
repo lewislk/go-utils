@@ -1,8 +1,9 @@
 package tools_test
 
 import (
-	"github.com/lewis-buji/go-utils/tools"
 	"testing"
+
+	"github.com/lewislk/go-utils/tools"
 )
 
 func TestGetLogStr(t *testing.T) {
